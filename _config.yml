@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: Adam Charette-Castonguay
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: This is the website of Adam Charette Castonguay
+logo: #site-logo.png
 search: true
 url: http://localhost:4000
 
@@ -48,13 +48,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Adam Charette-Castonguay
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: adam.charette.castonguay@monash.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: accastonguay
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

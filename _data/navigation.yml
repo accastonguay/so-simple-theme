@@ -3,14 +3,17 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: CV
+  url: /cv/
 
-- title: Blog
-  url: /blog/
+#- title: Research
+  # url: /research/
 
-- title: Theme Setup
-  url: /theme-setup/
+# - title: Blog
+  # url: /blog/
+  
+# - title: Other
+  # url: /other/
 
-- title: Search
-  url: /search/
+# - title: Search
+  # url: /search/
